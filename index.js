@@ -18,7 +18,8 @@ function switchOnCharmFromTip(tip) {
  let response;
  
  switch (tip) {
-   case ()
+   case 'generous'
+     return ''
  }
  
 }
